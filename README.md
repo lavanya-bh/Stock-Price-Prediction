@@ -1,6 +1,6 @@
 # Stock Market Price Prediction 📈
 
-A machine learning project that predicts future stock prices using historical data and compares different regression models for performance.
+A deep learning project that predicts future stock prices using historical data and compares different regression models for performance.
 
 ## 🎯 Objective
 
@@ -8,7 +8,7 @@ Predict stock prices using historical market data and evaluate model performance
 
 ## 📦 Dataset
 
-- Historical stock data (likely includes Open, High, Low, Close, Volume)
+- Historical stock data (includes Open, High, Low, Close, Volume)
 - Sourced via financial APIs or CSV exports (e.g., Yahoo Finance)
 
 ## 🧰 Libraries & Tools
@@ -17,7 +17,7 @@ Predict stock prices using historical market data and evaluate model performance
 - NumPy, Pandas  
 - Scikit-learn  
 - Matplotlib, Seaborn  
-- LSTM (if implemented in extended version)  
+- LSTM (
 - Optional: yfinance for data import
 
 ## 🔍 Workflow
